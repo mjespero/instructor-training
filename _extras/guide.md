@@ -168,34 +168,6 @@ The biggest change was the introduction of recorded teaching exercises.
     rather than by using the Etherpad chat.
 
 *   We do the video lecture exercise as in the two-day in-person training.
-
-### Multi-Week Online (Retired)
-
-This was the first method we tried.
-
-*   We meet every week or every second week for an hour using Google Hangout or BlueJeans.
-    Each meeting is held twice (or even three times) to accommodate learners' time zones
-    and because video conferencing systems can't handle 60+ people at once.
-    Each meeting also uses an Etherpad for shared note-taking,
-    and more importantly for asking and answering questions:
-    having several dozen people try to talk on a call hasn't worked,
-    so in most sessions,
-    the instructor does the talking
-    and learners respond through the Etherpad chat.
-
-*   Learners post homework online, then comment on each other's work.
-    *   We used a WordPress blog for the first ten rounds of training.
-        People found writing and commenting on posts straightforward,
-        but setting up dozens of logins was tedious.
-    *   We tried a GitHub-backed blog in the Winter 2015 class.
-        It didn't work nearly as well:
-        a third of the participants found it extremely frustrating,
-        and post-publication commentary was awkward.
-    *   We tried Piazza in the Fall 2015 class.
-        It was better than GitHub,
-        but still not as good as a simple WordPress blog.
-        In particular,
-        it was hard to find things once there were more than a dozen homework categories.
         
 ## Demo Sessions
 
